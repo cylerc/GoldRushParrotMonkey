@@ -1,4 +1,4 @@
-# Supplementary materials for the paper 'The Monkeys and Parrots of Gold Rush-era California'
+# Supplementary material for the paper 'The Monkeys and Parrots of Gold Rush-era California'
 
 This repository contains a supplemental reference list for the following paper:
 
